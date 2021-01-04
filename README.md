@@ -1,3 +1,3 @@
 # Example Repository
 
-This is a sample repo - Udemy
+This is a repository to create examples and practices
